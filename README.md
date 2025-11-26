@@ -25,13 +25,13 @@
 </iframe>
     <!-- Unordered List  -->
     <h2>2-Groceries to Buy</h2>
-<table border="2">    <ul>
+    <ul>
         <li>Milk</li><img src="https://static.vecteezy.com/system/resources/previews/017/340/365/original/transparent-glass-of-fresh-milk-png.png" width="100" height="100">
         <li>Bread</li><img src="https://lilluna.com/wp-content/uploads/2021/06/wheat-bread-resize-10.jpg" width="100" height="100">
         <li>Eggs</li><img src="https://d2j6dbq0eux0bg.cloudfront.net/images/81418042/3301420402.jpg" width="100" height="100">
         <li>Butter</li><img src="https://www.webexhibits.org/butter/i/full/iStock_000006937653Small.jpg" width="100" height="100">
         <li>Vegetables</li><img src="https://www.perfection.com.au/hs-fs/hubfs/Produce_LR_Category_Proprietary%20Fruit%20and%20Vegetables%20Group_Styled_2022_03%20(1).jpg?width=2250&name=Produce_LR_Category_Proprietary%20Fruit%20and%20Vegetables%20Group_Styled_2022_03%20(1).jpg" width="200" height="150">
-    </ul></table>
+    </ul>
     <a href="https://www.infobooks.org">For more details visit your site</a>
     <h3>3-Do the things properly</h3>
     <ol>
